@@ -1,2 +1,2 @@
-WhatsNext Vision Motors, a pioneering force in the automotive industry, is dedicated to transforming the mobility sector with innovative technology and solutions that prioritize customer needs. The company has embarked on an ambitious Salesforce project with the core objective of enhancing the customer experience and streamlining its operational processes.
-At the heart of this project is the improvement of the customer ordering process. The system is designed to automatically suggest the nearest dealer location to customers based on their address. This feature is intended to significantly enhance the convenience and efficiency of the ordering experience, making it more customer-friendly and reducing the time and effort required from the customer's end.
+Link for the project demo vedio:
+https://drive.google.com/file/d/1ltYjFrIcgx_-PqDhZNhAeJ9wjh4x2oWI/view?usp=sharing
